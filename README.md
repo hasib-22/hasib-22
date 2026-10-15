@@ -74,7 +74,7 @@ To become a **high-skilled Full stack developer** and contribute to real-world i
 ## 📈 **Contribution Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhasib&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Abdul Hasib's Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasib-22&theme=react&hide_border=true" alt="Abdul Hasib's GitHub Streak" />
 </p>
 
 ---
