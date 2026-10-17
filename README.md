@@ -82,8 +82,8 @@ To become a **high-skilled Full stack developer** and contribute to real-world i
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adi-ops16&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-ops16&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasib-22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasib-22&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ To become a **high-skilled Full stack developer** and contribute to real-world i
 ## 📊 **Most Used Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-ops16&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib-22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -115,8 +115,8 @@ To become a **high-skilled Full stack developer** and contribute to real-world i
 ## 🏆 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi-ops16&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-ops16&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasib-22&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasib-22&theme=radical" height="160" />
 </p>
 
 ---
